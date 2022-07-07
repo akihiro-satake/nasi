@@ -1,0 +1,10 @@
+h1{
+  color:blue;
+  font-size:40px;
+  border: 1px solid red;
+  padding: 10px 20px;
+}
+p{
+  color: deeppink; 
+  font-size:15px;
+}
